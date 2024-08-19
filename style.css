@@ -1,0 +1,19 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/ai-la-nguoi-dam-me-nhung-bau-troi-dem-day-sao-dep-den-nao-long-nao.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/564x/9f/c4/88/9fc4883fa81ea6a7d81a4868f60a5a13.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/564x/9f/c4/88/9fc4883fa81ea6a7d81a4868f60a5a13.jpg);
+}
+
+.carousel-item {
+  height: 500px;
+}
